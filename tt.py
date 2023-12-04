@@ -10,7 +10,7 @@ import streamlit as st
 # import random
 import matplotlib.pyplot as plt 
 
-# fig, ax = plt.subplots()
+fig, ax = plt.subplots()
   
 x = []
 y = []
