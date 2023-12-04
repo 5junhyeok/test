@@ -8,7 +8,7 @@
 
 import streamlit as st
 # import random
-import matplotlib.pyplot as pit 
+import matplotlib.pyplot as plt 
 
 # fig, ax = plt.subplots()
   
