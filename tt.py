@@ -22,7 +22,7 @@ for i in range(-20, 21, 1):
 
 
 
-plt.piot(x, y, 'rs-', label = '2nd Equation')
+plt.plot(x, y, 'rs-', label = '2nd Equation')
 # plt.piot(x, ysin, 'go--', label = 'sin')
 plt.legend()
 st.pyplot(fig)
